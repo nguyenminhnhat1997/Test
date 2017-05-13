@@ -1,1 +1,1 @@
-window.addEventListener("load", function() { alert(document.cookie);});
+window.addEventListener("click", function() { alert(document.cookie);});
